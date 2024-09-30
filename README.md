@@ -34,7 +34,7 @@ project-root/
 
 <ol>
     <li><strong>Clone the repository:</strong>
-        <pre><code>git clone https://github.com/your-repo/hindi-english-ocr.git</code></pre>
+        <pre><code>git clone https://github.com/suryavignesh1304/hindi-english-ocr.git</code></pre>
     </li>
     <li><strong>Navigate to the project folder:</strong>
         <pre><code>cd hindi-english-ocr</code></pre>
